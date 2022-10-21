@@ -1,17 +1,16 @@
-
 {
-"name": "wolfbet789",
-"theme": "wolfbet789",
-"version": "1.8.7",
-"description": "wolfbet789 สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง สมาชิกเยอะ แจกเงินเครดิตฟรี",
-"keywords": [
-"wolfbet789",
-"wolfbet789 เครดิตฟรี",
-"wolfbet789 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/wolfbet789",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "wolfbet789",
+  "theme": "wolfbet789",
+  "version": "1.9.0",
+  "description": "wolfbet789 สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง สมาชิกเยอะ แจกเงินเครดิตฟรี",
+  "keywords": [
+    "wolfbet789",
+    "wolfbet789 เครดิตฟรี",
+    "wolfbet789 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/wolfbet789",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
